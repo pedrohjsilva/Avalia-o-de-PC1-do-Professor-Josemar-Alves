@@ -1,1 +1,4 @@
-# Avalia-o-de-PC1-do-Professor-Josemar-Alves
+# Avaliação-de-PC1-do-Professor-Josemar-Alves
+
+A questão 1 dessa avaliação pedia que informássemos a saída do programa, escrito em Linguagem C, e descrevêssemos a razão pela qual essa saída se justificava.
+Sendo assim, escrevi no corpo doo código vários comentários explicando, passo a passo, o que estava sendo  interpretado pelo programa.
